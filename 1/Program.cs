@@ -12,4 +12,4 @@ int number = ReadLine("Введите число А: ");
 
 int number1 = ReadLine("Введите число А: ");
 
-System.Console.Write(Math.Pow(number, number1));
+System.Console.Write(Math.Pow(number,number1));
